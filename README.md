@@ -2,4 +2,5 @@
 # Gitチュートリアル
 
 #feature-A
-fix-B
+#fix-B
+#faatureC
